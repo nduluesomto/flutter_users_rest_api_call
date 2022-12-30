@@ -43,13 +43,10 @@ class MyApp extends StatelessWidget {
 }</code>
 
 
-### HomePage (before triggering 'fetch user' action)
-<img src="https://user-images.githubusercontent.com/120676400/210025844-b9a73951-316c-47fb-a04b-fb58c65d3fd6.png" width="360" height="800">
+### HomePage (before triggering 'fetch user' action) || HomePage (With array of fetched users from API)
 
-
-### HomePage (With array of fetched users from API)
-<img src="https://user-images.githubusercontent.com/120676400/210025906-291808ef-c1cf-4ccd-afc2-bb14ddc522b8.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/120676400/210025844-b9a73951-316c-47fb-a04b-fb58c65d3fd6.png" width="360" height="780"> <img src="https://user-images.githubusercontent.com/120676400/210025906-291808ef-c1cf-4ccd-afc2-bb14ddc522b8.png" width="360" height="780">
 
 
 ### User Details Page (using Navigator.of(context).push)
-<img src="https://user-images.githubusercontent.com/120676400/210025987-3ba997db-1feb-4479-9fea-d87b60a85410.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/120676400/210025987-3ba997db-1feb-4479-9fea-d87b60a85410.png" width="360" height="780">
