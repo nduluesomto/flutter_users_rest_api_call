@@ -14,7 +14,7 @@ flutter-app/
  |- test
  </code>
  
- Here is the folder structure we have been using in this project
+ Here is the folder structure I used in this project
 <code> 
 lib/
 |- pages/
